@@ -1,0 +1,15 @@
+{
+  "name": "AutoScraper",
+  "version": "0.0.0",
+  "description": "Scrapes AutoTrader for interesting cars that are hard to search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rich Knight",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "cheerio": "~0.12.4",
+    "request": "~2.27.0"
+  }
+}
